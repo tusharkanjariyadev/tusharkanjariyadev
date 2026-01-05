@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The One CSS Grid Habit That Makes It Feel Hard](https://medium.com/@TusharKanjariya/the-one-css-grid-habit-that-makes-it-feel-hard-32e946a6a6ca?source=rss-4a24e4e7e0fa------2)
 - [I Stopped Using JavaScript for Menus](https://medium.com/@TusharKanjariya/i-stopped-using-javascript-for-menus-f94335faf876?source=rss-4a24e4e7e0fa------2)
 - [I Tried Google NotebookLM as a Developer](https://medium.com/@TusharKanjariya/i-tried-google-notebooklm-as-a-developer-067caa74c9ad?source=rss-4a24e4e7e0fa------2)
 - [3 CSS Nesting Patterns I Actually Use](https://medium.com/@TusharKanjariya/3-css-nesting-patterns-i-actually-use-dcfd67d646e8?source=rss-4a24e4e7e0fa------2)
-- [An AI Bot That Helps You Reply Better on Discord](https://medium.com/@TusharKanjariya/an-ai-bot-that-helps-you-reply-better-on-discord-94054da6a3af?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
