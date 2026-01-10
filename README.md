@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tried a Direction-Aware Button With Only CSS](https://medium.com/@TusharKanjariya/i-tried-a-direction-aware-button-with-only-css-6418b86aeef7?source=rss-4a24e4e7e0fa------2)
 - [How I Arrange Elements in a Circle Using Just CSS](https://medium.com/@TusharKanjariya/how-i-arrange-elements-in-a-circle-using-just-css-2b1bce33ff8d?source=rss-4a24e4e7e0fa------2)
 - [I Made $60 Writing on Medium &lpar;As a Developer&rpar;](https://medium.com/write-a-catalyst/i-made-60-writing-on-medium-as-a-developer-15eca3959913?source=rss-4a24e4e7e0fa------2)
 - [The One CSS Grid Habit That Makes It Feel Hard](https://medium.com/@TusharKanjariya/the-one-css-grid-habit-that-makes-it-feel-hard-32e946a6a6ca?source=rss-4a24e4e7e0fa------2)
-- [I Stopped Using JavaScript for Menus](https://medium.com/@TusharKanjariya/i-stopped-using-javascript-for-menus-f94335faf876?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
