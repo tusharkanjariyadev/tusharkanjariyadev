@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [If You Overthink Tasks, Try This First](https://medium.com/write-a-catalyst/if-you-overthink-tasks-try-this-first-b350e15d972b?source=rss-4a24e4e7e0fa------2)
 - [CSS Subgrid Solves Real-World Grid Layout Problems](https://medium.com/@TusharKanjariya/css-subgrid-solves-real-world-grid-layout-problems-29630885c3e3?source=rss-4a24e4e7e0fa------2)
 - [Simple CSS Tricks to Make Your Forms Look “Pro”](https://medium.com/@TusharKanjariya/simple-css-tricks-to-make-your-forms-look-pro-a2b262bddda8?source=rss-4a24e4e7e0fa------2)
 - [How Google Maps Solved India’s “No Street Names” Problem](https://medium.com/design-bootcamp/how-google-maps-solved-indias-no-street-names-problem-7f53a282cb65?source=rss-4a24e4e7e0fa------2)
-- [Position Fixed vs Sticky: Real Use Cases &amp; Common Mistakes](https://medium.com/@TusharKanjariya/position-fixed-vs-sticky-real-use-cases-common-mistakes-fd0d03cb5add?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
