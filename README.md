@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your JavaScript Is Slower Than You Think &lpar;Fix These Habits&rpar;](https://medium.com/@TusharKanjariya/your-javascript-is-slower-than-you-think-fix-these-habits-311723ca0f70?source=rss-4a24e4e7e0fa------2)
 - [Why 100vh Breaks on Mobile &lpar;And What to Use Instead&rpar;](https://medium.com/@TusharKanjariya/why-100vh-breaks-on-mobile-and-what-to-use-instead-a4e65cb2797f?source=rss-4a24e4e7e0fa------2)
 - [What I Learned From Beginner CSS Mistakes](https://medium.com/@TusharKanjariya/what-i-learned-from-beginner-css-mistakes-2f3dcdb4e3a1?source=rss-4a24e4e7e0fa------2)
 - [If You Overthink Tasks, Try This First](https://medium.com/write-a-catalyst/if-you-overthink-tasks-try-this-first-b350e15d972b?source=rss-4a24e4e7e0fa------2)
-- [CSS Subgrid Solves Real-World Grid Layout Problems](https://medium.com/@TusharKanjariya/css-subgrid-solves-real-world-grid-layout-problems-29630885c3e3?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
