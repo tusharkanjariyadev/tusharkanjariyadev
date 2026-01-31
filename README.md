@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Solves Problems, but Clarity Builds Businesses](https://medium.com/design-bootcamp/code-solves-problems-but-clarity-builds-businesses-8e4fe720e3ec?source=rss-4a24e4e7e0fa------2)
 - [The Clipboard API Isn’t What You Think](https://medium.com/@TusharKanjariya/the-clipboard-api-isnt-what-you-think-d9d850735a1b?source=rss-4a24e4e7e0fa------2)
 - [CSS Replaced My Scroll JavaScript &lpar;Real UI&rpar;](https://medium.com/@TusharKanjariya/css-replaced-my-scroll-javascript-real-ui-fffdea6a7843?source=rss-4a24e4e7e0fa------2)
 - [Your JavaScript Is Slower Than You Think &lpar;Fix These Habits&rpar;](https://medium.com/@TusharKanjariya/your-javascript-is-slower-than-you-think-fix-these-habits-311723ca0f70?source=rss-4a24e4e7e0fa------2)
-- [Why 100vh Breaks on Mobile &lpar;And What to Use Instead&rpar;](https://medium.com/@TusharKanjariya/why-100vh-breaks-on-mobile-and-what-to-use-instead-a4e65cb2797f?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
