@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Freelancers Add One More Zero to Their Income](https://medium.com/write-a-catalyst/how-freelancers-add-one-more-zero-to-their-income-b61c521aef02?source=rss-4a24e4e7e0fa------2)
+- [Why API Calls Work in Postman but Not in the Browser](https://medium.com/@TusharKanjariya/why-api-calls-work-in-postman-but-not-in-the-browser-54f88aa30bee?source=rss-4a24e4e7e0fa------2)
 - [Why Your % Height Doesn’t Work in CSS](https://medium.com/@TusharKanjariya/why-your-height-doesnt-work-in-css-0825df268aef?source=rss-4a24e4e7e0fa------2)
 - [You’re Not Bad at CSS &lpar;But This Is&rpar;](https://medium.com/@TusharKanjariya/youre-not-bad-at-css-but-this-is-0c9f6f8a42c3?source=rss-4a24e4e7e0fa------2)
-- [Code Solves Problems, but Clarity Builds Businesses](https://medium.com/design-bootcamp/code-solves-problems-but-clarity-builds-businesses-8e4fe720e3ec?source=rss-4a24e4e7e0fa------2)
-- [The Clipboard API Isn’t What You Think](https://medium.com/@TusharKanjariya/the-clipboard-api-isnt-what-you-think-d9d850735a1b?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
