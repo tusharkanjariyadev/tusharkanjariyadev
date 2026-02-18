@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This Navbar Trick Needs No JS](https://medium.com/@TusharKanjariya/this-navbar-trick-needs-no-js-1c91c9a8b7a6?source=rss-4a24e4e7e0fa------2)
 - [CSS Anchor Positioning: Practical &amp; Real Use Cases](https://medium.com/@TusharKanjariya/css-anchor-positioning-practical-real-use-cases-9176006e3059?source=rss-4a24e4e7e0fa------2)
 - [7 Simple Jokes With Surprisingly Deep Life Lessons](https://medium.com/write-a-catalyst/7-simple-jokes-with-surprisingly-deep-life-lessons-def0011a1fe3?source=rss-4a24e4e7e0fa------2)
 - [Simple CSS Border-Radius Tricks to Make Your UI Look Pro](https://medium.com/@TusharKanjariya/simple-css-border-radius-tricks-to-make-your-ui-look-pro-eedb21e6a2ca?source=rss-4a24e4e7e0fa------2)
-- [How Freelancers Add One More Zero to Their Income](https://medium.com/write-a-catalyst/how-freelancers-add-one-more-zero-to-their-income-b61c521aef02?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
