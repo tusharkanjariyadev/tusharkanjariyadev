@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Share Friend Links on Member-Only Stories](https://medium.com/write-a-catalyst/why-i-share-friend-links-on-member-only-stories-beaa92627f2a?source=rss-4a24e4e7e0fa------2)
 - [Proof That Clear Writing Still Wins on the Internet](https://medium.com/@TusharKanjariya/proof-that-clear-writing-still-wins-on-the-internet-062a65a0351d?source=rss-4a24e4e7e0fa------2)
 - [This Navbar Trick Needs No JS](https://medium.com/@TusharKanjariya/this-navbar-trick-needs-no-js-1c91c9a8b7a6?source=rss-4a24e4e7e0fa------2)
 - [CSS Anchor Positioning: Practical &amp; Real Use Cases](https://medium.com/@TusharKanjariya/css-anchor-positioning-practical-real-use-cases-9176006e3059?source=rss-4a24e4e7e0fa------2)
-- [7 Simple Jokes With Surprisingly Deep Life Lessons](https://medium.com/write-a-catalyst/7-simple-jokes-with-surprisingly-deep-life-lessons-def0011a1fe3?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
