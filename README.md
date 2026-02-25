@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Developer Tools I Actually Use &lpar;Not Another Useless List&rpar;](https://medium.com/@TusharKanjariya/developer-tools-i-actually-use-not-another-useless-list-f76f022aeada?source=rss-4a24e4e7e0fa------2)
 - [The CSS Selector I Use Everywhere](https://medium.com/@TusharKanjariya/the-css-selector-i-use-everywhere-3797ac54aecb?source=rss-4a24e4e7e0fa------2)
 - [Why I Share Friend Links on Member-Only Stories](https://medium.com/write-a-catalyst/why-i-share-friend-links-on-member-only-stories-beaa92627f2a?source=rss-4a24e4e7e0fa------2)
 - [Proof That Clear Writing Still Wins on the Internet](https://medium.com/@TusharKanjariya/proof-that-clear-writing-still-wins-on-the-internet-062a65a0351d?source=rss-4a24e4e7e0fa------2)
-- [This Navbar Trick Needs No JS](https://medium.com/@TusharKanjariya/this-navbar-trick-needs-no-js-1c91c9a8b7a6?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
