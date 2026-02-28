@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent-First vs AI-First: Which Actually Makes You More Productive?](https://medium.com/@TusharKanjariya/agent-first-vs-ai-first-which-actually-makes-you-more-productive-f41263538dc6?source=rss-4a24e4e7e0fa------2)
 - [You’re Probably Writing Insecure JavaScript.](https://medium.com/@TusharKanjariya/youre-probably-writing-insecure-javascript-ef2aab56fa68?source=rss-4a24e4e7e0fa------2)
 - [Developer Tools I Actually Use &lpar;Not Another Useless List&rpar;](https://medium.com/@TusharKanjariya/developer-tools-i-actually-use-not-another-useless-list-f76f022aeada?source=rss-4a24e4e7e0fa------2)
 - [The CSS Selector I Use Everywhere](https://medium.com/@TusharKanjariya/the-css-selector-i-use-everywhere-3797ac54aecb?source=rss-4a24e4e7e0fa------2)
-- [Why I Share Friend Links on Member-Only Stories](https://medium.com/write-a-catalyst/why-i-share-friend-links-on-member-only-stories-beaa92627f2a?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
