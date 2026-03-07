@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Just Killed This JavaScript Trick](https://medium.com/@TusharKanjariya/css-just-killed-this-javascript-trick-acbbb48a8fea?source=rss-4a24e4e7e0fa------2)
 - [JavaScript Generators: Everyone Learns This. But Nobody Uses It](https://medium.com/@TusharKanjariya/javascript-generators-everyone-learns-this-but-nobody-uses-it-487f1f457e55?source=rss-4a24e4e7e0fa------2)
 - [Removing 1 from 100 gives 00, not 99.](https://medium.com/write-a-catalyst/removing-1-from-100-gives-00-not-99-f1a68e305cd4?source=rss-4a24e4e7e0fa------2)
 - [Your CSS Isn’t Broken. Your Habits Are.](https://medium.com/@TusharKanjariya/your-css-isnt-broken-your-habits-are-eefc000e4523?source=rss-4a24e4e7e0fa------2)
-- [JavaScript Arrow Function Mistakes Most Devs Make](https://medium.com/@TusharKanjariya/javascript-arrow-function-mistakes-most-devs-make-4d06baa6a023?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
