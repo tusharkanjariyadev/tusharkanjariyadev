@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Turn Small Coding Problems Into Blog Posts](https://medium.com/write-a-catalyst/how-i-turn-small-coding-problems-into-blog-posts-86262680289b?source=rss-4a24e4e7e0fa------2)
+- [I Learned C in College and Now I’m Teaching It to My Kids](https://medium.com/@TusharKanjariya/i-learned-c-in-college-and-now-im-teaching-it-to-my-kids-7a7d5b193189?source=rss-4a24e4e7e0fa------2)
 - [I Tried Rebuilding This Windows Hover Effect](https://medium.com/@TusharKanjariya/i-tried-rebuilding-this-windows-hover-effect-5d3d0d07bc7f?source=rss-4a24e4e7e0fa------2)
 - [CSS Just Killed This JavaScript Trick](https://medium.com/@TusharKanjariya/css-just-killed-this-javascript-trick-acbbb48a8fea?source=rss-4a24e4e7e0fa------2)
-- [JavaScript Generators: Everyone Learns This. But Nobody Uses It](https://medium.com/@TusharKanjariya/javascript-generators-everyone-learns-this-but-nobody-uses-it-487f1f457e55?source=rss-4a24e4e7e0fa------2)
-- [Removing 1 from 100 gives 00, not 99.](https://medium.com/write-a-catalyst/removing-1-from-100-gives-00-not-99-f1a68e305cd4?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
