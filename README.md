@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.4 Dropped a Few Days Ago. Devs Are Building Like It’s 2040.](https://medium.com/@TusharKanjariya/gpt-5-4-dropped-a-few-days-ago-devs-are-building-like-its-2040-8f64f03fa7e8?source=rss-4a24e4e7e0fa------2)
 - [How I Turn Small Coding Problems Into Blog Posts](https://medium.com/write-a-catalyst/how-i-turn-small-coding-problems-into-blog-posts-86262680289b?source=rss-4a24e4e7e0fa------2)
 - [I Learned C in College and Now I’m Teaching It to My Kids](https://medium.com/@TusharKanjariya/i-learned-c-in-college-and-now-im-teaching-it-to-my-kids-7a7d5b193189?source=rss-4a24e4e7e0fa------2)
 - [I Tried Rebuilding This Windows Hover Effect](https://medium.com/@TusharKanjariya/i-tried-rebuilding-this-windows-hover-effect-5d3d0d07bc7f?source=rss-4a24e4e7e0fa------2)
-- [CSS Just Killed This JavaScript Trick](https://medium.com/@TusharKanjariya/css-just-killed-this-javascript-trick-acbbb48a8fea?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
