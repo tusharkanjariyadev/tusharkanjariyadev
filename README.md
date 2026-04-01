@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your UI Isn’t Bad It’s Missing These CSS Tricks](https://medium.com/@TusharKanjariya/your-ui-isnt-bad-it-s-missing-these-css-tricks-e5340aba7860?source=rss-4a24e4e7e0fa------2)
 - [Deleting a 10GB File Takes 1s… Why?](https://medium.com/@TusharKanjariya/deleting-a-10gb-file-takes-1s-why-fcb893f5b8da?source=rss-4a24e4e7e0fa------2)
 - [This Claude Skill Fixed My Writing](https://medium.com/@TusharKanjariya/this-claude-skill-fixed-my-writing-9e1160a5b2cc?source=rss-4a24e4e7e0fa------2)
 - [Claude Auto Mode: I Let It Run Without Asking](https://medium.com/@TusharKanjariya/claude-auto-mode-i-let-it-run-without-asking-9e23a16cea1f?source=rss-4a24e4e7e0fa------2)
-- [First Make It Work. Then Make It Beautiful.](https://medium.com/write-a-catalyst/first-make-it-work-then-make-it-beautiful-88386d302f68?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
