@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Hand-Coding Skeleton Screens](https://medium.com/@TusharKanjariya/stop-hand-coding-skeleton-screens-7d21812c6974?source=rss-4a24e4e7e0fa------2)
 - [This Tiny Library Removes localhost Port Numbers](https://medium.com/@TusharKanjariya/this-tiny-library-removes-localhost-port-numbers-c452f9717a05?source=rss-4a24e4e7e0fa------2)
 - [I Stopped Using JavaScript for SVG Animations](https://medium.com/@TusharKanjariya/i-stopped-using-javascript-for-svg-animations-5a48c17af92b?source=rss-4a24e4e7e0fa------2)
 - [Your UI Isn’t Bad It’s Missing These CSS Tricks](https://medium.com/@TusharKanjariya/your-ui-isnt-bad-it-s-missing-these-css-tricks-e5340aba7860?source=rss-4a24e4e7e0fa------2)
-- [Deleting a 10GB File Takes 1s… Why?](https://medium.com/@TusharKanjariya/deleting-a-10gb-file-takes-1s-why-fcb893f5b8da?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
