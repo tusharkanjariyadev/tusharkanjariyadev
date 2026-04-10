@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Won’t Replace You](https://medium.com/@TusharKanjariya/ai-wont-replace-you-fc2cbc4a7f43?source=rss-4a24e4e7e0fa------2)
 - [Your WordPress Site Isn’t Slow &lpar;It’s Overloaded&rpar;](https://medium.com/@TusharKanjariya/your-wordpress-site-isnt-slow-it-s-overloaded-4af89af765a9?source=rss-4a24e4e7e0fa------2)
 - [Preload Can Make Your Site Slower &lpar;Here’s When&rpar;](https://medium.com/@TusharKanjariya/preload-can-make-your-site-slower-heres-when-1b946624fdce?source=rss-4a24e4e7e0fa------2)
 - [Stop Hand-Coding Skeleton Screens](https://medium.com/@TusharKanjariya/stop-hand-coding-skeleton-screens-7d21812c6974?source=rss-4a24e4e7e0fa------2)
-- [This Tiny Library Removes localhost Port Numbers](https://medium.com/@TusharKanjariya/this-tiny-library-removes-localhost-port-numbers-c452f9717a05?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
