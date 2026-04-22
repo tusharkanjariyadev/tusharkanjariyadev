@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One URL Parameter Gave a Stranger Full Access to My Mom’s Account](https://medium.com/@TusharKanjariya/one-url-parameter-gave-a-stranger-full-access-to-my-moms-account-cd5d6d3b4767?source=rss-4a24e4e7e0fa------2)
 - [How Figma Handles 10 Designers at Once](https://medium.com/@TusharKanjariya/how-figma-handles-10-designers-at-once-76b9212838fa?source=rss-4a24e4e7e0fa------2)
 - [I Found a Repo That Makes Fonts Write Themselves](https://medium.com/@TusharKanjariya/i-found-a-repo-that-makes-fonts-write-themselves-a9906e49c28f?source=rss-4a24e4e7e0fa------2)
 - [Is Chasing a 100 Lighthouse Score Actually Worth It?](https://medium.com/@TusharKanjariya/is-chasing-a-100-lighthouse-score-actually-worth-it-bb22293532fd?source=rss-4a24e4e7e0fa------2)
-- [I Thought Accessibility Was Just Alt Text. I Was Wrong.](https://medium.com/@TusharKanjariya/i-thought-accessibility-was-just-alt-text-i-was-wrong-d166a42b32e9?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
