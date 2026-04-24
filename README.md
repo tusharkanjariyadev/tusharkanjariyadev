@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Isn’t a Choice Anymore. It’s the Default.](https://medium.com/@TusharKanjariya/typescript-isnt-a-choice-anymore-it-s-the-default-b1050209527c?source=rss-4a24e4e7e0fa------2)
+- [Your Surrounding Is Your Arounding](https://medium.com/write-a-catalyst/your-surrounding-is-your-arounding-f6b61b5f15bc?source=rss-4a24e4e7e0fa------2)
 - [I Integrated GPT Image 2 Into My App. Here’s What Happened.](https://medium.com/@TusharKanjariya/i-integrated-gpt-image-2-into-my-app-heres-what-happened-756ca59afe54?source=rss-4a24e4e7e0fa------2)
 - [One URL Parameter Gave a Stranger Full Access to My Mom’s Account](https://medium.com/@TusharKanjariya/one-url-parameter-gave-a-stranger-full-access-to-my-moms-account-cd5d6d3b4767?source=rss-4a24e4e7e0fa------2)
-- [How Figma Handles 10 Designers at Once](https://medium.com/@TusharKanjariya/how-figma-handles-10-designers-at-once-76b9212838fa?source=rss-4a24e4e7e0fa------2)
-- [I Found a Repo That Makes Fonts Write Themselves](https://medium.com/@TusharKanjariya/i-found-a-repo-that-makes-fonts-write-themselves-a9906e49c28f?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
