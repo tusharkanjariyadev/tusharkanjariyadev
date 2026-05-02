@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Deleted 60 Lines of Animation Code With One API](https://medium.com/@TusharKanjariya/i-deleted-60-lines-of-animation-code-with-one-api-e5963311c378?source=rss-4a24e4e7e0fa------2)
 - [Good Code Is Boring. It Took Me Years to Accept That.](https://medium.com/design-bootcamp/good-code-is-boring-it-took-me-years-to-accept-that-cacf12efc33d?source=rss-4a24e4e7e0fa------2)
 - [Stop Defaulting to Frameworks. Most Projects Don’t Need One.](https://medium.com/@TusharKanjariya/stop-defaulting-to-frameworks-most-projects-dont-need-one-dcb04e98e0a9?source=rss-4a24e4e7e0fa------2)
 - [I Tested 3 Font Loading Methods. Only One Won.](https://medium.com/@TusharKanjariya/i-tested-3-font-loading-methods-only-one-won-6f3486a8c763?source=rss-4a24e4e7e0fa------2)
-- [TypeScript Isn’t a Choice Anymore. It’s the Default.](https://medium.com/@TusharKanjariya/typescript-isnt-a-choice-anymore-it-s-the-default-b1050209527c?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
