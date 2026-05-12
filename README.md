@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Thought AI Would Free Up My Time. It Actually Didn’t.](https://medium.com/@TusharKanjariya/i-thought-ai-would-free-up-my-time-it-actually-didnt-32b46021ec8c?source=rss-4a24e4e7e0fa------2)
 - [I Used Git Wrong for Years](https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640?source=rss-4a24e4e7e0fa------2)
 - [I Stopped Vibe Coding for One Day](https://medium.com/@TusharKanjariya/i-stopped-vibe-coding-for-one-day-a376f04fcf0c?source=rss-4a24e4e7e0fa------2)
 - [There’s a Secret Inside Every AI Content](https://medium.com/@TusharKanjariya/theres-a-secret-inside-every-ai-content-86bd6cd75406?source=rss-4a24e4e7e0fa------2)
-- [I Deleted 60 Lines of Animation Code With One API](https://medium.com/@TusharKanjariya/i-deleted-60-lines-of-animation-code-with-one-api-e5963311c378?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
