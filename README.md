@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This JavaScript API Replaced 5 npm Packages](https://medium.com/@TusharKanjariya/this-javascript-api-replaced-5-npm-packages-ecbd8c2e62f3?source=rss-4a24e4e7e0fa------2)
 - [I Removed reCAPTCHA From Every Site I Build](https://medium.com/@TusharKanjariya/i-removed-recaptcha-from-every-site-i-build-45e53e508dc1?source=rss-4a24e4e7e0fa------2)
 - [I Thought AI Would Free Up My Time. It Actually Didn’t.](https://medium.com/@TusharKanjariya/i-thought-ai-would-free-up-my-time-it-actually-didnt-32b46021ec8c?source=rss-4a24e4e7e0fa------2)
 - [I Used Git Wrong for Years](https://medium.com/@TusharKanjariya/i-used-git-wrong-for-years-8c8307402640?source=rss-4a24e4e7e0fa------2)
-- [I Stopped Vibe Coding for One Day](https://medium.com/@TusharKanjariya/i-stopped-vibe-coding-for-one-day-a376f04fcf0c?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
