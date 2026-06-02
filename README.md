@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Fixed a CSS Bug Without Opening DevTools](https://medium.com/@TusharKanjariya/i-fixed-a-css-bug-without-opening-devtools-f719d9528d24?source=rss-4a24e4e7e0fa------2)
 - [The Prompt Trick That Actually Fixes AI Hallucinations in Code](https://medium.com/@TusharKanjariya/the-prompt-trick-that-actually-fixes-ai-hallucinations-in-code-edf9a6107dd3?source=rss-4a24e4e7e0fa------2)
 - [I Used localStorage Wrong for Years](https://medium.com/@TusharKanjariya/i-used-localstorage-wrong-for-years-77e759d18d60?source=rss-4a24e4e7e0fa------2)
 - [Why I Finally Stopped Trusting typeof in JavaScript](https://medium.com/@TusharKanjariya/why-i-finally-stopped-trusting-typeof-in-javascript-26ccf0e9b8d8?source=rss-4a24e4e7e0fa------2)
-- [Why Every AI Website Feels the Same](https://medium.com/@TusharKanjariya/why-every-ai-website-feels-the-same-ffbe201cfab7?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
