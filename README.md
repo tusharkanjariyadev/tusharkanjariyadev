@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Browser Is an Operating System Now.](https://medium.com/@TusharKanjariya/the-browser-is-an-operating-system-now-153fe5794bb4?source=rss-4a24e4e7e0fa------2)
 - [I Used DevTools Wrong for Years](https://medium.com/@TusharKanjariya/i-used-devtools-wrong-for-years-17312afae73e?source=rss-4a24e4e7e0fa------2)
 - [I Fixed a CSS Bug Without Opening DevTools](https://medium.com/@TusharKanjariya/i-fixed-a-css-bug-without-opening-devtools-f719d9528d24?source=rss-4a24e4e7e0fa------2)
 - [The Prompt Trick That Actually Fixes AI Hallucinations in Code](https://medium.com/@TusharKanjariya/the-prompt-trick-that-actually-fixes-ai-hallucinations-in-code-edf9a6107dd3?source=rss-4a24e4e7e0fa------2)
-- [I Used localStorage Wrong for Years](https://medium.com/@TusharKanjariya/i-used-localstorage-wrong-for-years-77e759d18d60?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
