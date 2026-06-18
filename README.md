@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Installing npm Packages JavaScript Already Replaced](https://medium.com/@TusharKanjariya/stop-installing-npm-packages-javascript-already-replaced-9c5dc8c7c8e2?source=rss-4a24e4e7e0fa------2)
 - [I Thought AI Models Were the Product. I Was Wrong.](https://medium.com/@TusharKanjariya/i-thought-ai-models-were-the-product-i-was-wrong-82bbcbc4e0da?source=rss-4a24e4e7e0fa------2)
 - [I Was Optimizing My Terminal All Wrong](https://medium.com/@TusharKanjariya/i-was-optimizing-my-terminal-all-wrong-44b632b62188?source=rss-4a24e4e7e0fa------2)
 - [Context Engineering Is Eating Prompt Engineering](https://medium.com/@TusharKanjariya/context-engineering-is-eating-prompt-engineering-46503f46a5b5?source=rss-4a24e4e7e0fa------2)
-- [I Was Using AI Wrong Until I Learned These Developer Tricks](https://medium.com/@TusharKanjariya/i-was-using-ai-wrong-until-i-learned-these-developer-tricks-68f3a6890c81?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
