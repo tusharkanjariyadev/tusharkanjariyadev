@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Weird Thing I Learned About AI Agent Bugs](https://medium.com/@TusharKanjariya/the-weird-thing-i-learned-about-ai-agent-bugs-f2a36604a265?source=rss-4a24e4e7e0fa------2)
 - [I Was Debugging With AI All Wrong](https://medium.com/@TusharKanjariya/i-was-debugging-with-ai-all-wrong-e3980e8916ef?source=rss-4a24e4e7e0fa------2)
 - [Stop Installing npm Packages JavaScript Already Replaced](https://medium.com/@TusharKanjariya/stop-installing-npm-packages-javascript-already-replaced-9c5dc8c7c8e2?source=rss-4a24e4e7e0fa------2)
 - [I Thought AI Models Were the Product. I Was Wrong.](https://medium.com/@TusharKanjariya/i-thought-ai-models-were-the-product-i-was-wrong-82bbcbc4e0da?source=rss-4a24e4e7e0fa------2)
-- [I Was Optimizing My Terminal All Wrong](https://medium.com/@TusharKanjariya/i-was-optimizing-my-terminal-all-wrong-44b632b62188?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
