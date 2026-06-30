@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Ignored These Mac Terminal Commands for Years](https://medium.com/@TusharKanjariya/i-ignored-these-mac-terminal-commands-for-years-6b18665d468d?source=rss-4a24e4e7e0fa------2)
 - [This Japanese AI Doesn’t Beat ChatGPT. It Hires It.](https://medium.com/@TusharKanjariya/this-japanese-ai-doesnt-beat-chatgpt-it-hires-it-129ddbd049e8?source=rss-4a24e4e7e0fa------2)
 - [I Thought I Understood Node.js](https://medium.com/@TusharKanjariya/i-thought-i-understood-node-js-096edec8cdc2?source=rss-4a24e4e7e0fa------2)
 - [The Weird Thing I Learned About AI Agent Bugs](https://medium.com/@TusharKanjariya/the-weird-thing-i-learned-about-ai-agent-bugs-f2a36604a265?source=rss-4a24e4e7e0fa------2)
-- [I Was Debugging With AI All Wrong](https://medium.com/@TusharKanjariya/i-was-debugging-with-ai-all-wrong-e3980e8916ef?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
