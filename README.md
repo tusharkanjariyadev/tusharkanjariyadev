@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Has Three Ways to Ignore Files.](https://medium.com/@TusharKanjariya/git-has-three-ways-to-ignore-files-ed08be450233?source=rss-4a24e4e7e0fa------2)
 - [HTTP Just Got a New Method That Fixes a Problem I’ve Hit for Years](https://medium.com/@TusharKanjariya/http-just-got-a-new-method-that-fixes-a-problem-ive-hit-for-years-f82909d35fb4?source=rss-4a24e4e7e0fa------2)
 - [I Ignored These Windows Terminal Tricks for Years](https://medium.com/@TusharKanjariya/i-ignored-these-windows-terminal-tricks-for-years-1ca946f628b4?source=rss-4a24e4e7e0fa------2)
 - [Before You Jump Into AI, Understand These Terms First](https://medium.com/@TusharKanjariya/before-you-jump-into-ai-understand-these-terms-first-075f7932f890?source=rss-4a24e4e7e0fa------2)
-- [The Scariest App on Your Mac Might Be the Most Useful One](https://medium.com/macoclock/the-scariest-app-on-your-mac-might-be-the-most-useful-one-22cc3da80595?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
