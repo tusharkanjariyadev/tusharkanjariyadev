@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Authentication Concepts Every Developer Gets Wrong](https://medium.com/@TusharKanjariya/authentication-concepts-every-developer-gets-wrong-c09ace851e8b?source=rss-4a24e4e7e0fa------2)
 - [I Thought Ollama Was Enough](https://medium.com/@TusharKanjariya/i-thought-ollama-was-enough-72a232da1b85?source=rss-4a24e4e7e0fa------2)
 - [Git Has Three Ways to Ignore Files.](https://medium.com/@TusharKanjariya/git-has-three-ways-to-ignore-files-ed08be450233?source=rss-4a24e4e7e0fa------2)
 - [HTTP Just Got a New Method That Fixes a Problem I’ve Hit for Years](https://medium.com/@TusharKanjariya/http-just-got-a-new-method-that-fixes-a-problem-ive-hit-for-years-f82909d35fb4?source=rss-4a24e4e7e0fa------2)
-- [I Ignored These Windows Terminal Tricks for Years](https://medium.com/@TusharKanjariya/i-ignored-these-windows-terminal-tricks-for-years-1ca946f628b4?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
