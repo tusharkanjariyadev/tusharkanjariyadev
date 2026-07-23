@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Fixed CORS for Years Without Understanding It](https://medium.com/@TusharKanjariya/i-fixed-cors-for-years-without-understanding-it-293c8ea0eb2f?source=rss-4a24e4e7e0fa------2)
 - [I Thought Pinecone Was Required for RAG](https://medium.com/@TusharKanjariya/i-thought-pinecone-was-required-for-rag-13c331d541c0?source=rss-4a24e4e7e0fa------2)
 - [Authentication Concepts Every Developer Gets Wrong](https://medium.com/@TusharKanjariya/authentication-concepts-every-developer-gets-wrong-c09ace851e8b?source=rss-4a24e4e7e0fa------2)
 - [I Thought Ollama Was Enough](https://medium.com/@TusharKanjariya/i-thought-ollama-was-enough-72a232da1b85?source=rss-4a24e4e7e0fa------2)
-- [Git Has Three Ways to Ignore Files.](https://medium.com/@TusharKanjariya/git-has-three-ways-to-ignore-files-ed08be450233?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
