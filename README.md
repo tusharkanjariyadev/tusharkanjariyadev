@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Didn’t Know This AI Trick Had a Name](https://medium.com/@TusharKanjariya/i-didnt-know-this-ai-trick-had-a-name-c4b1902b659f?source=rss-4a24e4e7e0fa------2)
 - [The Gmail Search Trick I Wish I Knew Earlier](https://medium.com/@TusharKanjariya/the-gmail-search-trick-i-wish-i-knew-earlier-ea0c6efe1f1b?source=rss-4a24e4e7e0fa------2)
 - [I Fixed CORS for Years Without Understanding It](https://medium.com/@TusharKanjariya/i-fixed-cors-for-years-without-understanding-it-293c8ea0eb2f?source=rss-4a24e4e7e0fa------2)
 - [I Thought Pinecone Was Required for RAG](https://medium.com/@TusharKanjariya/i-thought-pinecone-was-required-for-rag-13c331d541c0?source=rss-4a24e4e7e0fa------2)
-- [Authentication Concepts Every Developer Gets Wrong](https://medium.com/@TusharKanjariya/authentication-concepts-every-developer-gets-wrong-c09ace851e8b?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
