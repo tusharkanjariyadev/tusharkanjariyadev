@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD Only Has 4 Operations… Until Production.](https://medium.com/@TusharKanjariya/crud-only-has-4-operations-until-production-7ed5d4b893d7?source=rss-4a24e4e7e0fa------2)
 - [I Didn’t Know This AI Trick Had a Name](https://medium.com/@TusharKanjariya/i-didnt-know-this-ai-trick-had-a-name-c4b1902b659f?source=rss-4a24e4e7e0fa------2)
 - [The Gmail Search Trick I Wish I Knew Earlier](https://medium.com/@TusharKanjariya/the-gmail-search-trick-i-wish-i-knew-earlier-ea0c6efe1f1b?source=rss-4a24e4e7e0fa------2)
 - [I Fixed CORS for Years Without Understanding It](https://medium.com/@TusharKanjariya/i-fixed-cors-for-years-without-understanding-it-293c8ea0eb2f?source=rss-4a24e4e7e0fa------2)
-- [I Thought Pinecone Was Required for RAG](https://medium.com/@TusharKanjariya/i-thought-pinecone-was-required-for-rag-13c331d541c0?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
