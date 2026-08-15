@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Fixed a Slow Page With One CSS Property. SEO Noticed Too.](https://medium.com/@TusharKanjariya/i-fixed-a-slow-page-with-one-css-property-seo-noticed-too-e5ff9ab6540e?source=rss-4a24e4e7e0fa------2)
 - [I Structured My Backend Wrong for Years](https://medium.com/@TusharKanjariya/i-structured-my-backend-wrong-for-years-c7bd37c06d0d?source=rss-4a24e4e7e0fa------2)
 - [If APIs Already Work, Why Does Everyone Suddenly Need MCP?](https://medium.com/@TusharKanjariya/if-apis-already-work-why-does-everyone-suddenly-need-mcp-e51d9fd0e611?source=rss-4a24e4e7e0fa------2)
 - [Every Frontend Architecture Pattern Explained](https://medium.com/@TusharKanjariya/every-frontend-architecture-pattern-explained-a7ec07e7bbbb?source=rss-4a24e4e7e0fa------2)
-- [CRUD Only Has 4 Operations… Until Production.](https://medium.com/@TusharKanjariya/crud-only-has-4-operations-until-production-7ed5d4b893d7?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
