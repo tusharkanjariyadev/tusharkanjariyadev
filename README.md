@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Mapped Every Prompting Technique I Actually Use.](https://medium.com/@TusharKanjariya/i-mapped-every-prompting-technique-i-actually-use-8ca2b74fd761?source=rss-4a24e4e7e0fa------2)
 - [How Do You Prompt AI to Build Your Projects? &lpar;There Are 7 Levels&rpar;](https://medium.com/@TusharKanjariya/how-do-you-prompt-ai-to-build-your-projects-there-are-7-levels-3745c38a75c1?source=rss-4a24e4e7e0fa------2)
 - [I Fixed a Slow Page With One CSS Property. SEO Noticed Too.](https://medium.com/@TusharKanjariya/i-fixed-a-slow-page-with-one-css-property-seo-noticed-too-e5ff9ab6540e?source=rss-4a24e4e7e0fa------2)
 - [I Structured My Backend Wrong for Years](https://medium.com/@TusharKanjariya/i-structured-my-backend-wrong-for-years-c7bd37c06d0d?source=rss-4a24e4e7e0fa------2)
-- [If APIs Already Work, Why Does Everyone Suddenly Need MCP?](https://medium.com/@TusharKanjariya/if-apis-already-work-why-does-everyone-suddenly-need-mcp-e51d9fd0e611?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
