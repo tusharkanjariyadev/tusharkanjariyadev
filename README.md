@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Didn’t Know the Browser Had a Lock API](https://medium.com/@TusharKanjariya/i-didnt-know-the-browser-had-a-lock-api-ceb95c983c7b?source=rss-4a24e4e7e0fa------2)
 - [WebMCP: When Websites Become AI Tools](https://medium.com/@TusharKanjariya/webmcp-when-websites-become-ai-tools-a0176a78f428?source=rss-4a24e4e7e0fa------2)
 - [I Don’t Own a GPU. These Models Don’t Care.](https://medium.com/@TusharKanjariya/i-dont-own-a-gpu-these-models-don-t-care-2c35145ba5d1?source=rss-4a24e4e7e0fa------2)
 - [I Mapped Every Prompting Technique I Actually Use.](https://medium.com/@TusharKanjariya/i-mapped-every-prompting-technique-i-actually-use-8ca2b74fd761?source=rss-4a24e4e7e0fa------2)
-- [How Do You Prompt AI to Build Your Projects? &lpar;There Are 7 Levels&rpar;](https://medium.com/@TusharKanjariya/how-do-you-prompt-ai-to-build-your-projects-there-are-7-levels-3745c38a75c1?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
