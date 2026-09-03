@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Thought Debouncing Fixed My Search Bar.](https://medium.com/@TusharKanjariya/i-thought-debouncing-fixed-my-search-bar-e794e7e2aeff?source=rss-4a24e4e7e0fa------2)
 - [I Thought JSON Was the Fastest](https://medium.com/@TusharKanjariya/i-thought-json-was-the-fastest-1712f7ee8478?source=rss-4a24e4e7e0fa------2)
 - [Google’s OKF: One Field, Smarter AI Agents](https://medium.com/@TusharKanjariya/googles-okf-one-field-smarter-ai-agents-1b21e57f41e5?source=rss-4a24e4e7e0fa------2)
 - [I Didn’t Know the Browser Had a Lock API](https://medium.com/@TusharKanjariya/i-didnt-know-the-browser-had-a-lock-api-ceb95c983c7b?source=rss-4a24e4e7e0fa------2)
-- [WebMCP: When Websites Become AI Tools](https://medium.com/@TusharKanjariya/webmcp-when-websites-become-ai-tools-a0176a78f428?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
