@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was Truncating Strings Wrong](https://medium.com/@TusharKanjariya/i-was-truncating-strings-wrong-6ff890b3d30c?source=rss-4a24e4e7e0fa------2)
 - [I Found What Was Eating My AI Tokens](https://medium.com/@TusharKanjariya/i-found-what-was-eating-my-ai-tokens-a2463745fa18?source=rss-4a24e4e7e0fa------2)
 - [Switch AI Models. Keep Your Context.](https://medium.com/@TusharKanjariya/switch-ai-models-keep-your-context-0ecc4ef5df1a?source=rss-4a24e4e7e0fa------2)
 - [I Scrolled My Phone While My AI Agent Worked. Big Mistake.](https://medium.com/@TusharKanjariya/i-scrolled-my-phone-while-my-ai-agent-worked-big-mistake-71ecec037e2f?source=rss-4a24e4e7e0fa------2)
-- [I Thought Debouncing Fixed My Search Bar.](https://medium.com/@TusharKanjariya/i-thought-debouncing-fixed-my-search-bar-e794e7e2aeff?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
