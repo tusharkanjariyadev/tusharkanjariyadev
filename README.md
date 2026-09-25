@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [No Company Ever Asked Me How Many LeetCode Problems I’ve Solved](https://medium.com/@TusharKanjariya/no-company-ever-asked-me-how-many-leetcode-problems-ive-solved-6150844b4553?source=rss-4a24e4e7e0fa------2)
 - [Jev Is Everywhere This Week. Is It Faster, or Just Loud?](https://medium.com/@TusharKanjariya/jev-is-everywhere-this-week-is-it-faster-or-just-loud-efb67b6308ac?source=rss-4a24e4e7e0fa------2)
 - [Why .catch&lpar;&rpar; Didn’t Catch It](https://medium.com/@TusharKanjariya/why-catch-didnt-catch-it-09e06081b118?source=rss-4a24e4e7e0fa------2)
 - [The REST API Rules I Actually Follow](https://medium.com/@TusharKanjariya/the-rest-api-rules-i-actually-follow-1ce933b414f8?source=rss-4a24e4e7e0fa------2)
-- [AGI Isn’t What You Think](https://medium.com/@TusharKanjariya/agi-isnt-what-you-think-104fa1222ed1?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
