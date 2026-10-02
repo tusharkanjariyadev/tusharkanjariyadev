@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Anthropic Skipped Image Generation?](https://medium.com/@TusharKanjariya/why-anthropic-skipped-image-generation-f3227c29cc38?source=rss-4a24e4e7e0fa------2)
 - [So, Is MCP Really a Protocol?](https://medium.com/@TusharKanjariya/so-is-mcp-really-a-protocol-566e542537a7?source=rss-4a24e4e7e0fa------2)
 - [A Website Can Be Fast and Still Be Bad](https://medium.com/@TusharKanjariya/a-website-can-be-fast-and-still-be-bad-e166ffbf8724?source=rss-4a24e4e7e0fa------2)
 - [Free AI Tools Can Cut Costs. Hosting Still Counts.](https://medium.com/@TusharKanjariya/free-ai-tools-can-cut-costs-hosting-still-counts-4b4e5672d78e?source=rss-4a24e4e7e0fa------2)
-- [No Company Ever Asked Me How Many LeetCode Problems I’ve Solved](https://medium.com/@TusharKanjariya/no-company-ever-asked-me-how-many-leetcode-problems-ive-solved-6150844b4553?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
