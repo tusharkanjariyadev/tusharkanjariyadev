@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [There Are 25 Types of UI. You Know 5.](https://medium.com/@TusharKanjariya/there-are-25-types-of-ui-you-know-5-a8fc203190df?source=rss-4a24e4e7e0fa------2)
 - [Stop Carrying Your Phone Everywhere.](https://medium.com/write-a-catalyst/stop-carrying-your-phone-everywhere-d8305b86908a?source=rss-4a24e4e7e0fa------2)
 - [Why Anthropic Skipped Image Generation?](https://medium.com/@TusharKanjariya/why-anthropic-skipped-image-generation-f3227c29cc38?source=rss-4a24e4e7e0fa------2)
 - [So, Is MCP Really a Protocol?](https://medium.com/@TusharKanjariya/so-is-mcp-really-a-protocol-566e542537a7?source=rss-4a24e4e7e0fa------2)
-- [A Website Can Be Fast and Still Be Bad](https://medium.com/@TusharKanjariya/a-website-can-be-fast-and-still-be-bad-e166ffbf8724?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
