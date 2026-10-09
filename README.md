@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [So What Is Codemode and Why Does MCP Need It?](https://medium.com/@TusharKanjariya/so-what-is-codemode-and-why-does-mcp-need-it-913891347737?source=rss-4a24e4e7e0fa------2)
 - [I Was Tired of Cloning Repos for One File](https://medium.com/@TusharKanjariya/i-was-tired-of-cloning-repos-for-one-file-311d48e92d31?source=rss-4a24e4e7e0fa------2)
 - [I Built a Claude Code Switcher. Each Project Picks Its Account.](https://medium.com/@TusharKanjariya/i-built-a-claude-code-switcher-each-project-picks-its-account-4ca5eb50455d?source=rss-4a24e4e7e0fa------2)
 - [There Are 25 Types of UI. You Know 5.](https://medium.com/@TusharKanjariya/there-are-25-types-of-ui-you-know-5-a8fc203190df?source=rss-4a24e4e7e0fa------2)
-- [Stop Carrying Your Phone Everywhere.](https://medium.com/write-a-catalyst/stop-carrying-your-phone-everywhere-d8305b86908a?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
