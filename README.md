@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AI Well Is a Skill. 10 Habits Built Mine.](https://medium.com/@TusharKanjariya/using-ai-well-is-a-skill-10-habits-built-mine-61389decaeb6?source=rss-4a24e4e7e0fa------2)
 - [Prompt Injection Is SQL Injection Again.](https://medium.com/@TusharKanjariya/prompt-injection-is-sql-injection-again-56703206a517?source=rss-4a24e4e7e0fa------2)
 - [So What Is Codemode and Why Does MCP Need It?](https://medium.com/@TusharKanjariya/so-what-is-codemode-and-why-does-mcp-need-it-913891347737?source=rss-4a24e4e7e0fa------2)
 - [I Was Tired of Cloning Repos for One File](https://medium.com/@TusharKanjariya/i-was-tired-of-cloning-repos-for-one-file-311d48e92d31?source=rss-4a24e4e7e0fa------2)
-- [I Built a Claude Code Switcher. Each Project Picks Its Account.](https://medium.com/@TusharKanjariya/i-built-a-claude-code-switcher-each-project-picks-its-account-4ca5eb50455d?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
