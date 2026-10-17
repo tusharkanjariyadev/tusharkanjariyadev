@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Ran an AI Model in a Browser Tab](https://medium.com/@TusharKanjariya/i-ran-an-ai-model-in-a-browser-tab-d4ab73666b3a?source=rss-4a24e4e7e0fa------2)
 - [Anthropic Built Its Own Git. Why?](https://medium.com/@TusharKanjariya/anthropic-built-its-own-git-why-a19d97c92019?source=rss-4a24e4e7e0fa------2)
 - [Using AI Well Is a Skill. 10 Habits Built Mine.](https://medium.com/@TusharKanjariya/using-ai-well-is-a-skill-10-habits-built-mine-61389decaeb6?source=rss-4a24e4e7e0fa------2)
 - [Prompt Injection Is SQL Injection Again.](https://medium.com/@TusharKanjariya/prompt-injection-is-sql-injection-again-56703206a517?source=rss-4a24e4e7e0fa------2)
-- [So What Is Codemode and Why Does MCP Need It?](https://medium.com/@TusharKanjariya/so-what-is-codemode-and-why-does-mcp-need-it-913891347737?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
