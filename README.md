@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Handled Form Error Messages Wrong for Years](https://medium.com/@TusharKanjariya/i-handled-form-error-messages-wrong-for-years-296a237a3c15?source=rss-4a24e4e7e0fa------2)
 - [Linux Has No C: Drive. Now What?](https://medium.com/@TusharKanjariya/linux-has-no-c-drive-now-what-08adc8860f19?source=rss-4a24e4e7e0fa------2)
 - [I Ran an AI Model in a Browser Tab](https://medium.com/@TusharKanjariya/i-ran-an-ai-model-in-a-browser-tab-d4ab73666b3a?source=rss-4a24e4e7e0fa------2)
 - [Anthropic Built Its Own Git. Why?](https://medium.com/@TusharKanjariya/anthropic-built-its-own-git-why-a19d97c92019?source=rss-4a24e4e7e0fa------2)
-- [Using AI Well Is a Skill. 10 Habits Built Mine.](https://medium.com/@TusharKanjariya/using-ai-well-is-a-skill-10-habits-built-mine-61389decaeb6?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
