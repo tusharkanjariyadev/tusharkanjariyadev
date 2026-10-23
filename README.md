@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Found a Better Way Than clamp&lpar;&rpar;](https://medium.com/@TusharKanjariya/i-found-a-better-way-than-clamp-f1f7f4ef758c?source=rss-4a24e4e7e0fa------2)
 - [Claude Code Has Mods Now. I Built Two Small Ones.](https://medium.com/@TusharKanjariya/claude-code-has-mods-now-i-built-two-small-ones-5acb2a3604d5?source=rss-4a24e4e7e0fa------2)
 - [I Handled Form Error Messages Wrong for Years](https://medium.com/@TusharKanjariya/i-handled-form-error-messages-wrong-for-years-296a237a3c15?source=rss-4a24e4e7e0fa------2)
 - [Linux Has No C: Drive. Now What?](https://medium.com/@TusharKanjariya/linux-has-no-c-drive-now-what-08adc8860f19?source=rss-4a24e4e7e0fa------2)
-- [I Ran an AI Model in a Browser Tab](https://medium.com/@TusharKanjariya/i-ran-an-ai-model-in-a-browser-tab-d4ab73666b3a?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
