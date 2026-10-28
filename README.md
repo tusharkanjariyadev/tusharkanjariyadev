@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Debugged JavaScript Wrong for Years](https://medium.com/@TusharKanjariya/i-debugged-javascript-wrong-for-years-bcb139abf10d?source=rss-4a24e4e7e0fa------2)
 - [I Ignored These Git Commands for Years](https://medium.com/@TusharKanjariya/i-ignored-these-git-commands-for-years-465cb0b4889e?source=rss-4a24e4e7e0fa------2)
 - [Firefox Local Mode: Goodbye, localhost?](https://medium.com/@TusharKanjariya/firefox-local-mode-goodbye-localhost-fbde4762cc44?source=rss-4a24e4e7e0fa------2)
 - [I Found a Better Way Than clamp&lpar;&rpar;](https://medium.com/@TusharKanjariya/i-found-a-better-way-than-clamp-f1f7f4ef758c?source=rss-4a24e4e7e0fa------2)
-- [Claude Code Has Mods Now. I Built Two Small Ones.](https://medium.com/@TusharKanjariya/claude-code-has-mods-now-i-built-two-small-ones-5acb2a3604d5?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
