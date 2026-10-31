@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Manager Thinks Everything Can Be Built in an Hour Now](https://medium.com/@TusharKanjariya/my-manager-thinks-everything-can-be-built-in-an-hour-now-b9bd7c7ce9ca?source=rss-4a24e4e7e0fa------2)
 - [I Ignored These HTML Attributes for Years](https://medium.com/@TusharKanjariya/i-ignored-these-html-attributes-for-years-6b36df290707?source=rss-4a24e4e7e0fa------2)
 - [I Debugged JavaScript Wrong for Years](https://medium.com/@TusharKanjariya/i-debugged-javascript-wrong-for-years-bcb139abf10d?source=rss-4a24e4e7e0fa------2)
 - [I Ignored These Git Commands for Years](https://medium.com/@TusharKanjariya/i-ignored-these-git-commands-for-years-465cb0b4889e?source=rss-4a24e4e7e0fa------2)
-- [Firefox Local Mode: Goodbye, localhost?](https://medium.com/@TusharKanjariya/firefox-local-mode-goodbye-localhost-fbde4762cc44?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
