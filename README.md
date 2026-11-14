@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Domain Separation Trick That Could Save Your Platform](https://levelup.gitconnected.com/the-domain-separation-trick-that-could-save-your-platform-863b194a0b94?source=rss-4a24e4e7e0fa------2)
 - [I Can Tell Your Website Was AI Generated](https://medium.com/@TusharKanjariya/i-can-tell-your-website-was-ai-generated-0a6c73316db6?source=rss-4a24e4e7e0fa------2)
 - [I Ignored These VS Code Features for Years](https://medium.com/@TusharKanjariya/i-ignored-these-vs-code-features-for-years-49ff3d454adc?source=rss-4a24e4e7e0fa------2)
 - [I Used npm Wrong for Years](https://medium.com/@TusharKanjariya/i-used-npm-wrong-for-years-984411af1de4?source=rss-4a24e4e7e0fa------2)
-- [My Manager Thinks Everything Can Be Built in an Hour Now](https://medium.com/@TusharKanjariya/my-manager-thinks-everything-can-be-built-in-an-hour-now-b9bd7c7ce9ca?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
