@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Should Your Website Block AI Agents or Feed Them?](https://medium.com/@TusharKanjariya/should-your-website-block-ai-agents-or-feed-them-cabf7523a9d1?source=rss-4a24e4e7e0fa------2)
 - [I Ignored Print CSS for Years](https://medium.com/@TusharKanjariya/i-ignored-print-css-for-years-246a41a0e2ec?source=rss-4a24e4e7e0fa------2)
 - [The Bullsh*t AI Advice I Stopped Following](https://medium.com/@TusharKanjariya/the-bullsh-t-ai-advice-i-stopped-following-116e9f83c31a?source=rss-4a24e4e7e0fa------2)
 - [The Domain Separation Trick That Could Save Your Platform](https://levelup.gitconnected.com/the-domain-separation-trick-that-could-save-your-platform-863b194a0b94?source=rss-4a24e4e7e0fa------2)
-- [I Can Tell Your Website Was AI Generated](https://medium.com/@TusharKanjariya/i-can-tell-your-website-was-ai-generated-0a6c73316db6?source=rss-4a24e4e7e0fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
