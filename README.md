@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [One Command Gave My localhost Real HTTPS](https://medium.com/@TusharKanjariya/one-command-gave-my-localhost-real-https-afce83898f6c?source=rss-4a24e4e7e0fa------2)
+- [One Command Gave My localhost Real HTTPS](https://medium.com/beyond-localhost/one-command-gave-my-localhost-real-https-afce83898f6c?source=rss-4a24e4e7e0fa------2)
 - [CMD and PowerShell Look Similar. That’s the Problem.](https://medium.com/@TusharKanjariya/cmd-and-powershell-look-similar-thats-the-problem-a666e01802e6?source=rss-4a24e4e7e0fa------2)
 - [Your AI Is Exactly as Smart as You Are](https://medium.com/@TusharKanjariya/your-ai-is-exactly-as-smart-as-you-are-48bae956f246?source=rss-4a24e4e7e0fa------2)
 - [I Stopped Putting Secrets in .env Files](https://medium.com/@TusharKanjariya/i-stopped-putting-secrets-in-env-files-85f8dc389a28?source=rss-4a24e4e7e0fa------2)
